@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\build\\intermediates\\res\\merged\\debug\\anim\\button_out.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\src\\main\\res\\anim\\button_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\build\\intermediates\\res\\merged\\debug\\anim\\button_scale_to_large.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\src\\main\\res\\anim\\button_scale_to_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\build\\intermediates\\res\\merged\\debug\\anim\\button_in.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\src\\main\\res\\anim\\button_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\build\\intermediates\\res\\merged\\debug\\anim\\close_rotate.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\src\\main\\res\\anim\\close_rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\build\\intermediates\\res\\merged\\debug\\anim\\button_scale_to_small.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\src\\main\\res\\anim\\button_scale_to_small.xml"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tabbar_compose_idea.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\src\\main\\res\\drawable-xxhdpi\\tabbar_compose_idea.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tabbar_compose_background_icon_close.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\src\\main\\res\\drawable-xxhdpi\\tabbar_compose_background_icon_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tabbar_compose_icon_add_highlighted.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\src\\main\\res\\drawable-xxhdpi\\tabbar_compose_icon_add_highlighted.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tabbar_compose_more.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\src\\main\\res\\drawable-xxhdpi\\tabbar_compose_more.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tabbar_compose_weibo.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\src\\main\\res\\drawable-xxhdpi\\tabbar_compose_weibo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tabbar_compose_icon_add.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\src\\main\\res\\drawable-xxhdpi\\tabbar_compose_icon_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tabbar_compose_review.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\src\\main\\res\\drawable-xxhdpi\\tabbar_compose_review.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tabbar_compose_lbs.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\src\\main\\res\\drawable-xxhdpi\\tabbar_compose_lbs.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tabbar_compose_photo.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\WeiboPlusPage\\app\\src\\main\\res\\drawable-xxhdpi\\tabbar_compose_photo.png"
+    }
+]
